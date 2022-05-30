@@ -1,0 +1,15 @@
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\ron-da20b93cbf28a602.rmeta: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\mod.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\id.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\tag.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\value.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\mod.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\value.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\error.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\value.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\extensions.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\parse.rs
+
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\ron-da20b93cbf28a602.d: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\mod.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\id.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\tag.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\value.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\mod.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\value.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\error.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\value.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\extensions.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\parse.rs
+
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\lib.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\mod.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\id.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\tag.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\value.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\mod.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\value.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\error.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\value.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\extensions.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\parse.rs:

@@ -1,0 +1,10 @@
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\gilrs_core-16b421aea5585b15.rmeta: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\mod.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\windows\mod.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\windows\ff.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\windows\gamepad.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\utils.rs
+
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\gilrs_core-16b421aea5585b15.d: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\mod.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\windows\mod.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\windows\ff.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\windows\gamepad.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\utils.rs
+
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\lib.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\mod.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\windows\mod.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\windows\ff.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\platform\windows\gamepad.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.2\src\utils.rs:

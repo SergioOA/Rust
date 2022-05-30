@@ -1,0 +1,14 @@
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\zip-12d52396f565389d.rmeta: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\compression.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\cp437.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\crc32.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\read.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\result.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\spec.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\types.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\write.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\zipcrypto.rs
+
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\zip-12d52396f565389d.d: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\compression.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\cp437.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\crc32.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\read.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\result.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\spec.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\types.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\write.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\zipcrypto.rs
+
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\lib.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\compression.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\cp437.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\crc32.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\read.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\result.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\spec.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\types.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\write.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\zip-0.5.13\src\zipcrypto.rs:

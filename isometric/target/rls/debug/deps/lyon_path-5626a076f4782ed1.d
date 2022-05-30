@@ -1,0 +1,13 @@
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\lyon_path-5626a076f4782ed1.rmeta: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\builder.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\commands.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\events.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\iterator.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path_buffer.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\polygon.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\private.rs
+
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\lyon_path-5626a076f4782ed1.d: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\builder.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\commands.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\events.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\iterator.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path_buffer.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\polygon.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\private.rs
+
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\lib.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\builder.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\commands.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\events.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\iterator.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path_buffer.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\polygon.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\private.rs:

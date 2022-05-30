@@ -1,0 +1,11 @@
+c:\Users\sergi\Desktop\Rust\birdgame\target\rls\debug\deps\bracket_color-685662bad022f199.rmeta: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\color_pair.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\hsv.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\lerpit.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\named.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\rgb.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\xpcolor.rs
+
+c:\Users\sergi\Desktop\Rust\birdgame\target\rls\debug\deps\bracket_color-685662bad022f199.d: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\color_pair.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\hsv.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\lerpit.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\named.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\rgb.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\xpcolor.rs
+
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\lib.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\color_pair.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\hsv.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\lerpit.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\named.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\rgb.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-color-0.7.0\src\xpcolor.rs:

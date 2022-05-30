@@ -1,0 +1,9 @@
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\bevy_diagnostic-b26bf11a3353c488.rmeta: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\diagnostic.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\entity_count_diagnostics_plugin.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\frame_time_diagnostics_plugin.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\log_diagnostics_plugin.rs
+
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\bevy_diagnostic-b26bf11a3353c488.d: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\diagnostic.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\entity_count_diagnostics_plugin.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\frame_time_diagnostics_plugin.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\log_diagnostics_plugin.rs
+
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\lib.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\diagnostic.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\entity_count_diagnostics_plugin.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\frame_time_diagnostics_plugin.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_diagnostic-0.5.0\src\log_diagnostics_plugin.rs:

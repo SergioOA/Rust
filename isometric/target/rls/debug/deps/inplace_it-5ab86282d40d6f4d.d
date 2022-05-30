@@ -1,0 +1,10 @@
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\inplace_it-5ab86282d40d6f4d.rmeta: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\mod.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\uninitialized_slice_memory_guard.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\slice_memory_guard.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\fixed_array.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\alloc_array.rs
+
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\inplace_it-5ab86282d40d6f4d.d: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\mod.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\uninitialized_slice_memory_guard.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\slice_memory_guard.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\fixed_array.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\alloc_array.rs
+
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\lib.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\mod.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\uninitialized_slice_memory_guard.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\slice_memory_guard.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\fixed_array.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\alloc_array.rs:

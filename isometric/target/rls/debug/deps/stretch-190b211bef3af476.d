@@ -1,0 +1,13 @@
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\stretch-190b211bef3af476.rmeta: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\geometry.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\node.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\number.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\result.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\style.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\algo.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\forest.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\id.rs
+
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\stretch-190b211bef3af476.d: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\geometry.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\node.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\number.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\result.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\style.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\algo.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\forest.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\id.rs
+
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\lib.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\geometry.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\node.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\number.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\result.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\style.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\algo.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\forest.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\id.rs:

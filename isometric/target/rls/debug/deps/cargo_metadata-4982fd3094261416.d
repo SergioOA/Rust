@@ -1,0 +1,11 @@
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\cargo_metadata-4982fd3094261416.rmeta: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\dependency.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\diagnostic.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\errors.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\messages.rs
+
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\libcargo_metadata-4982fd3094261416.rlib: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\dependency.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\diagnostic.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\errors.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\messages.rs
+
+c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\deps\cargo_metadata-4982fd3094261416.d: C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\lib.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\dependency.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\diagnostic.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\errors.rs C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\messages.rs
+
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\lib.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\dependency.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\diagnostic.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\errors.rs:
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\messages.rs:

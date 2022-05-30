@@ -1,0 +1,123 @@
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CXX_x86_64-pc-windows-msvc = None
+CXX_x86_64_pc_windows_msvc = None
+HOST_CXX = None
+CXX = None
+CXXFLAGS_x86_64-pc-windows-msvc = None
+CXXFLAGS_x86_64_pc_windows_msvc = None
+HOST_CXXFLAGS = None
+CXXFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+CXX_x86_64-pc-windows-msvc = None
+CXX_x86_64_pc_windows_msvc = None
+HOST_CXX = None
+CXX = None
+CXXFLAGS_x86_64-pc-windows-msvc = None
+CXXFLAGS_x86_64_pc_windows_msvc = None
+HOST_CXXFLAGS = None
+CXXFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-W4" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_HLSL" "-Foc:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/wrapper.o" "-c" "src/wrapper.cpp"
+wrapper.cpp
+src/wrapper.cpp(1): warning C4068: unknown pragma 'GCC'
+src/wrapper.cpp(472): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+src/wrapper.cpp(480): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\include\vector(775): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\include\vector(734): note: see reference to function template instantiation 'spirv_cross::RootConstants *std::vector<spirv_cross::RootConstants,std::allocator<spirv_cross::RootConstants>>::_Emplace_reallocate<_Ty>(spirv_cross::RootConstants *const ,_Ty &&)' being compiled
+        with
+        [
+            _Ty=spirv_cross::RootConstants
+        ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\include\vector(734): note: see reference to function template instantiation 'spirv_cross::RootConstants *std::vector<spirv_cross::RootConstants,std::allocator<spirv_cross::RootConstants>>::_Emplace_reallocate<_Ty>(spirv_cross::RootConstants *const ,_Ty &&)' being compiled
+        with
+        [
+            _Ty=spirv_cross::RootConstants
+        ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\include\vector(748): note: see reference to function template instantiation 'void std::vector<spirv_cross::RootConstants,std::allocator<spirv_cross::RootConstants>>::emplace_back<spirv_cross::RootConstants>(spirv_cross::RootConstants &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\include\vector(746): note: while compiling class template member function 'void std::vector<spirv_cross::RootConstants,std::allocator<spirv_cross::RootConstants>>::push_back(_Ty &&)'
+        with
+        [
+            _Ty=spirv_cross::RootConstants
+        ]
+src/wrapper.cpp(87): note: see reference to function template instantiation 'void std::vector<spirv_cross::RootConstants,std::allocator<spirv_cross::RootConstants>>::push_back(_Ty &&)' being compiled
+        with
+        [
+            _Ty=spirv_cross::RootConstants
+        ]
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\vendor/SPIRV-Cross/spirv_hlsl.hpp(358): note: see reference to class template instantiation 'std::vector<spirv_cross::RootConstants,std::allocator<spirv_cross::RootConstants>>' being compiled
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-W4" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_HLSL" "-Foc:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_cfg.o" "-c" "src/vendor/SPIRV-Cross/spirv_cfg.cpp"
+spirv_cfg.cpp
+exit code: 0
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-W4" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_HLSL" "-Foc:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_cross.o" "-c" "src/vendor/SPIRV-Cross/spirv_cross.cpp"
+spirv_cross.cpp
+exit code: 0
+exit code: 0
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-W4" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_HLSL" "-Foc:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_cross_parsed_ir.o" "-c" "src/vendor/SPIRV-Cross/spirv_cross_parsed_ir.cpp"
+spirv_cross_parsed_ir.cpp
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-W4" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_HLSL" "-Foc:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_parser.o" "-c" "src/vendor/SPIRV-Cross/spirv_parser.cpp"
+spirv_parser.cpp
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-W4" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_HLSL" "-Foc:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_cross_util.o" "-c" "src/vendor/SPIRV-Cross/spirv_cross_util.cpp"
+spirv_cross_util.cpp
+exit code: 0
+exit code: 0
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-W4" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_HLSL" "-Foc:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_glsl.o" "-c" "src/vendor/SPIRV-Cross/spirv_glsl.cpp"
+spirv_glsl.cpp
+exit code: 0
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-W4" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_HLSL" "-Foc:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_hlsl.o" "-c" "src/vendor/SPIRV-Cross/spirv_hlsl.cpp"
+spirv_hlsl.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\include\vector(775): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\include\vector(734): note: see reference to function template instantiation 'std::pair<_Kty,_Ty> *std::vector<std::pair<_Kty,_Ty>,std::allocator<std::pair<_Kty,_Ty>>>::_Emplace_reallocate<std::pair<_Kty,_Ty>>(std::pair<_Kty,_Ty> *const ,std::pair<_Kty,_Ty> &&)' being compiled
+        with
+        [
+            _Kty=uint32_t,
+            _Ty=uint32_t
+        ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\include\vector(734): note: see reference to function template instantiation 'std::pair<_Kty,_Ty> *std::vector<std::pair<_Kty,_Ty>,std::allocator<std::pair<_Kty,_Ty>>>::_Emplace_reallocate<std::pair<_Kty,_Ty>>(std::pair<_Kty,_Ty> *const ,std::pair<_Kty,_Ty> &&)' being compiled
+        with
+        [
+            _Kty=uint32_t,
+            _Ty=uint32_t
+        ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\include\vector(748): note: see reference to function template instantiation 'void std::vector<std::pair<_Kty,_Ty>,std::allocator<std::pair<_Kty,_Ty>>>::emplace_back<std::pair<_Kty,_Ty>>(std::pair<_Kty,_Ty> &&)' being compiled
+        with
+        [
+            _Kty=uint32_t,
+            _Ty=uint32_t
+        ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\include\vector(746): note: while compiling class template member function 'void std::vector<std::pair<_Kty,_Ty>,std::allocator<std::pair<_Kty,_Ty>>>::push_back(std::pair<_Kty,_Ty> &&)'
+        with
+        [
+            _Kty=uint32_t,
+            _Ty=uint32_t
+        ]
+src/vendor/SPIRV-Cross/spirv_glsl.cpp(357): note: see reference to function template instantiation 'void std::vector<std::pair<_Kty,_Ty>,std::allocator<std::pair<_Kty,_Ty>>>::push_back(std::pair<_Kty,_Ty> &&)' being compiled
+        with
+        [
+            _Kty=uint32_t,
+            _Ty=uint32_t
+        ]
+C:\Users\sergi\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\vendor\SPIRV-Cross\spirv_glsl.hpp(840): note: see reference to class template instantiation 'std::vector<std::pair<_Kty,_Ty>,std::allocator<std::pair<_Kty,_Ty>>>' being compiled
+        with
+        [
+            _Kty=uint32_t,
+            _Ty=uint32_t
+        ]
+exit code: 0
+exit code: 0
+AR_x86_64-pc-windows-msvc = None
+AR_x86_64_pc_windows_msvc = None
+HOST_AR = None
+AR = None
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\lib.exe" "-out:c:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\libspirv-cross-rust-wrapper.a" "-nologo" "c:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/wrapper.o" "c:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_cfg.o" "c:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_cross.o" "c:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_cross_parsed_ir.o" "c:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_parser.o" "c:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_cross_util.o" "c:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_glsl.o" "c:\\Users\\sergi\\Desktop\\Rust\\isometric\\target\\rls\\debug\\build\\spirv_cross-d4fd8886889c3b9d\\out\\src/vendor/SPIRV-Cross/spirv_hlsl.o"
+exit code: 0
+cargo:rustc-link-lib=static=spirv-cross-rust-wrapper
+cargo:rustc-link-search=native=c:\Users\sergi\Desktop\Rust\isometric\target\rls\debug\build\spirv_cross-d4fd8886889c3b9d\out
+CXXSTDLIB_x86_64-pc-windows-msvc = None
+CXXSTDLIB_x86_64_pc_windows_msvc = None
+HOST_CXXSTDLIB = None
+CXXSTDLIB = None
